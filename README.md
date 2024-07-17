@@ -7,7 +7,7 @@ This repository contains Matlab scripts used for the analysis reported in the pa
 #### Contents
 
 The provided Matlab scripts were utilized to:<br>
- - Detect sleep-related parameters during NREM sleep, including _Spindle density_ et al., <br>
+ - Detect sleep-related parameters during NREM sleep, including *Spindle density* et al., <br>
  - Analyze the correlations between these sleep parameters and AMPAR levels.<br>
 
 #### Dependencies
