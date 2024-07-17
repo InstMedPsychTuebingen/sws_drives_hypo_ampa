@@ -16,4 +16,4 @@ The provided Matlab scripts were utilized to:<br>
 - Signal Processing Toolbox
 
 #### 3. Clone the repository:
-     git clone https://github.com/InstMedPsychTuebingen/sws_drives_hypo_ampa.git
+     git clone https://github.com/InstMedPsychTuebingen/sws_hypo_ampa.git
