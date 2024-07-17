@@ -1,8 +1,3 @@
-#### 
-'''sh
-git clone https://github.com/InstMedPsychTuebingen/sws_drives_hypo_ampa.git
-'''
-
 ### Slow wave sleep drives sleep-dependent renormalization of synaptic AMPA receptor levels in the hypothalamus
 
 #### Jianfeng Liu,¶ , Niels Niethard, ¶ , Yu Lun , Stoyan Dimitrov , Ingrid Ehrlich , Jan Born * , Manfred Hallschmid *
@@ -19,3 +14,8 @@ The provided Matlab scripts were utilized to:<br>
 
 - Matlab R2021a or later
 - Signal Processing Toolbox
+
+#### Clone the repository:
+    ```bash
+    git clone https://github.com/InstMedPsychTuebingen/sws_drives_hypo_ampa.git
+    ```
